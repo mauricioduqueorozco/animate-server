@@ -10,3 +10,7 @@ BSD
 
 This code is inspired on the marvelous [chat.meatspac.es](https://github.com/meatspaces/meatspace-chat-v2/) and it's
 used for educational purposes only.
+
+nvm install iojs
+npm run build-js
+npm start
